@@ -24,3 +24,10 @@ Command Prompt
 Technologies:
 
 The user should have a basic understanding of Java and Object Oriented Programming concepts.
+                                              Execute Project Using Command Prompt
+Library Management Project can be executed using command prompt as well as using eclipse. Download executable jar file from the “KnowledgeWalaLibrary _executableJAR” link. Please follow below-given steps to execute the Library Management Project.
+
+1 Download executable jar file from the link
+2 Open a command prompt and navigate to executable jar file location
+
+3 Type “java -jar KnowledgeWalaLibrary_Executable_JAR.jar” command and hit enter button
